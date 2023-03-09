@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshwerb
+- 👋 Hi, I’m Ganeshwer
 - 👀 I’m interested in Unity, Blender, Unreal Engine
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on game dev projects
