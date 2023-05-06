@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ganeshwer
-- 👀 I’m interested in Unity, Blender, Unreal Engine
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on game dev projects
+- 👀 I’m interested in Unity, Blender
 - 📫 How to reach me 
-                      Insta : manfriday._
+                      Insta : ganesh.wer
 
 <!---
 ganeshwerb/ganeshwerb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
